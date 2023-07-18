@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.main-sidebar{
+    background: #9e0000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-self:center;
+    
+   
+}
